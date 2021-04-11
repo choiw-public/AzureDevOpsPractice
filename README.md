@@ -1,0 +1,1 @@
+AzureDevOps Practice.This repo is just a copy of https://github.com/rahulshettyacademy/DevopsBasics
